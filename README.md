@@ -61,7 +61,7 @@ All projects in this repository are written in **Python 3.x**.
 
 I'm always open to feedback and connecting with other developers!
 
-* **GitHub:** [@Your-Username](https://github.com/[])
+* **GitHub:** [@CosmicNavigator329](https://github.com/[CosmicNavigator329])
 
 
-&copy; [Current Year] [Your Name]
+&copy; [2025] [Dave Mwathi]
