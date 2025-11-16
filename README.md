@@ -41,7 +41,7 @@ All projects in this repository are written in **Python 3.x**.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-Username]/[Your-Repository-Name].git
+    git clone [https://github.com/](https://github.com/)[CosmicNavigator329]/[Beginner-python-projects].git
     ```
 2.  **Create a Virtual Environment (Recommended):**
     ```bash
