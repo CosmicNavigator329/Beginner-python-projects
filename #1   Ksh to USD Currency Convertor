@@ -1,0 +1,13 @@
+import time
+print(" --------STARTING UP THE CURRENCY CONVERTOR------------")
+time.sleep(2)
+print("This convertor converts ksh to USD")
+time.sleep(1)
+print("The current exchange rate is:  1 Ksh  = 0.0077$")
+time.sleep(1)
+x=input("Type in the amount you want to convert to USD in Ksh?//integer only//:")
+time.sleep(1)
+y= float(x)*0.0077
+print(str(y)+'$')
+print('----------CURRENCY CONVERTOR SHUT DOWN----------------')
+time.sleep(2)
